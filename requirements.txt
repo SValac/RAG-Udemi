@@ -11,3 +11,8 @@ python-dotenv
 pandas
 langchain-text-splitters
 pymupdf
+unstructured
+pdfminer
+python-docx
+docx2txt
+unstructured[docx]
