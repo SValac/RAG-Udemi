@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+0-DataIngetsParsing/data/structured_files/inventory.xlsx
+0-DataIngetsParsing/data/structured_files/products.csv
