@@ -19,3 +19,4 @@ unstructured[docx]
 pandas
 openpyxl
 msoffcrypto-tool
+jq
