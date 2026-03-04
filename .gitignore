@@ -10,3 +10,4 @@ wheels/
 .venv
 0-DataIngetsParsing/data/structured_files/inventory.xlsx
 0-DataIngetsParsing/data/structured_files/products.csv
+0-DataIngetsParsing/data/databases/company.db
