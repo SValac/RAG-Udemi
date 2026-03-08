@@ -21,3 +21,6 @@ openpyxl
 msoffcrypto-tool
 jq
 matplotlib
+## Embeddings
+langchain-huggingface
+sentence-transformers
