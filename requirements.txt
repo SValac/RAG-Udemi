@@ -4,7 +4,6 @@ faiss-cpu
 tiktoken
 langchain-community
 langchain-openai
-chromadb
 sentence-transformers
 pypdf
 python-dotenv
@@ -24,3 +23,5 @@ matplotlib
 ## Embeddings
 langchain-huggingface
 sentence-transformers
+## Vector Stores
+chromadb
