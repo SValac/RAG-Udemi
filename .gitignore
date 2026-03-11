@@ -13,3 +13,6 @@ wheels/
 0-DataIngetsParsing/data/databases/company.db
 
 .env
+
+data/
+chroma_db/
