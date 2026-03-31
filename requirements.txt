@@ -28,3 +28,4 @@ chromadb
 ## Vector Databases
 langchain-core
 langchain-astradb
+langchain-pinecone
