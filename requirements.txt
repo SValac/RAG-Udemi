@@ -25,3 +25,6 @@ langchain-huggingface
 sentence-transformers
 ## Vector Stores
 chromadb
+## Vector Databases
+langchain-core
+langchain-astradb
