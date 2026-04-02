@@ -29,3 +29,5 @@ chromadb
 langchain-core
 langchain-astradb
 langchain-pinecone
+## Experimental
+langchain-experimental
