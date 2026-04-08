@@ -31,3 +31,6 @@ langchain-astradb
 langchain-pinecone
 ## Experimental
 langchain-experimental
+
+## bm25
+rank_bm25
