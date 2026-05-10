@@ -34,3 +34,5 @@ langchain-experimental
 
 ## bm25
 rank_bm25
+
+wikipedia
